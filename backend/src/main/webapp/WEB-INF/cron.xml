@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+    <cron>
+        <url>/send-email</url>
+        <description>Email users their list of work items.</description>
+        <!--<schedule>every 2 minutes</schedule>-->
+        <schedule>every 24 hours</schedule>
+    </cron>
+</cronentries>

@@ -9,3 +9,4 @@
 .externalNativeBuild
 app/google-services.json
 backend/src/main/webapp/WEB-INF/ToDoFirebaseProject-69c120177383.json
+backend/build/
